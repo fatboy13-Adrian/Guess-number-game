@@ -1,0 +1,21 @@
+Practice Exercise
+Guess Number Game
+Use what you have learned so far to build a mini number guessing game.  Try to make the components resuable and practice the  passing of props.
+
+Here're the basic requirements:
+Set a mystery random number between 1 and 20 - you may hard code the number first.
+User can input a guess.
+System outputs status message to tell the user if it was too high, too low or if the user guessed correctly.
+
+Challenge - Additional features you can implement:
+User can reset the game to play again.
+Programmatically generate a random number between 1 and 20 on start and when the game resets.
+Display the past guesses.
+
+This practice only requires the concepts you have learned so far i.e.
+useState
+event handling
+passing props
+component functions
+
+Styling is not needed but you can improve the aesthetics if you have the time.
